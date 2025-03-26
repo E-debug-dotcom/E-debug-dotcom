@@ -29,8 +29,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Eleandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EleandroGirgis&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EleandroGirgis&layout=compact&theme=dark)  
+![Eleandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-debug-dotcom&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-debug-dotcom&layout=compact&theme=dark)  
 
 ---
 
