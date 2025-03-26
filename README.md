@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🚀 Hi, I'm Eleandro Girgis! 👋  
+🔹 **Founder of [E-Debug Dotcom](https://github.com/E-debug-dotcom) | IT Support Analyst | Cybersecurity & Compliance | Developer**  
 
-<!--
-**E-debug-dotcom/E-debug-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about **automating IT processes, optimizing databases, and building secure systems.**  
+🔍 Exploring **cybersecurity auditing & compliance, JIRA Forge development, and IT automation.**  
+🚀 Currently improving my **GitHub presence** with new projects & contributions!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** Python, Java, PHP, HTML, SQL  
+- **Tools:** PowerApps, Node.js, React, JIRA Forge, Git  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Cloud:** AWS, Azure  
+- **Operating Systems:** Linux, Windows, Mac OS  
+
+---
+
+## 📌 Projects  
+🚗 **Fleet Vehicle Check-In/Out System** *(PowerApps, SharePoint)*  
+📋 **JIRA Software Expiry Tracker Add-on** *(JIRA Forge, Node.js)*  
+🔐 **Complex Password Generator with GUI** *(Python, Tkinter)*  
+🛡️ **Password Strength Checker** *(Python, Regex, Tkinter)*  
+🎣 **Phishing URL Scanner** *(Python, Machine Learning, Flask)*  
+🖥️ **Windows & Linux System Health Monitor** *(Python, Bash, PowerShell)*  
+
+📂 More projects coming soon—stay tuned!  
+
+---
+
+## 📊 GitHub Stats  
+![Eleandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EleandroGirgis&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EleandroGirgis&layout=compact&theme=dark)  
+
+---
+
+## 📫 Let's Connect!  
+📎 **LinkedIn:** [linkedin.com/in/eleandro-g-224029107](https://www.linkedin.com/in/eleandro-g-224029107/)  
+📧 **Email:** egirgis@outlook.com  
+🏢 **GitHub Organization:** [E-debug-dotcom](https://github.com/E-debug-dotcom)
