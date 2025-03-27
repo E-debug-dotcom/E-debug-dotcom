@@ -31,7 +31,8 @@
 ## 📊 GitHub Stats  
 ![Eleandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-debug-dotcom&show_icons=true&theme=dark&cachne_seconds=30)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-debug-dotcom&layout=compact&theme=dark&cachne_seconds=30)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+
+
 
 
 
