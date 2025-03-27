@@ -31,10 +31,15 @@
 ## 📊 GitHub Stats  
 ![Eleandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-debug-dotcom&show_icons=true&theme=dark&cachne_seconds=30)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-debug-dotcom&layout=compact&theme=dark&cachne_seconds=30)  
+![GitHub followers](https://img.shields.io/github/followers/E-debug-dotcom?style=social)
+![GitHub stars](https://img.shields.io/github/stars/E-debug-dotcom?style=social)
 
 
+## 🚀 My Recent Projects
 
-
+### 📚 Phishing URL Scanner
+- A tool to identify phishing URLs using machine learning and Flask.
+- [View on GitHub](https://github.com/E-debug-dotcom/Phishing-URL-Scanner)
 
 ---
 
@@ -42,3 +47,15 @@
 📎 **LinkedIn:** [linkedin.com/in/eleandro-g-224029107](https://www.linkedin.com/in/eleandro-g-224029107/)  
 📧 **Email:** egirgis@outlook.com  
 🏢 **GitHub Organization:** [E-debug-dotcom](https://github.com/E-debug-dotcom)
+
+---
+
+## ⚡ Fun Facts
+
+- 💡 I enjoy contributing to open-source projects.
+- 🚗 Always working on automating tasks at home.
+- 🎮 I'm a fan of strategy and puzzle games.
+
+---
+
+Thank you for visiting my GitHub profile! 😊
