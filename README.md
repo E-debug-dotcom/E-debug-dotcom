@@ -31,6 +31,12 @@
 ## 📊 GitHub Stats  
 ![Eleandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-debug-dotcom&show_icons=true&theme=dark&cachne_seconds=30)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-debug-dotcom&layout=compact&theme=dark&cachne_seconds=30)  
+![Build Status](https://img.shields.io/github/workflow/status/E-debug-dotcom/Phishing-URL-Scanner/CI?label=Build)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Stars](https://img.shields.io/github/stars/E-debug-dotcom?style=social)
+![Contributions](https://img.shields.io/github/commit-activity/m/E-debug-dotcom?style=plastic)
+![Followers](https://img.shields.io/github/followers/E-debug-dotcom?style=social)
+
 
 ---
 
