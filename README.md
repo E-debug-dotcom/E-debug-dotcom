@@ -17,11 +17,11 @@
 ---
 
 ## 📌 Projects  
-🚗 **Fleet Vehicle Check-In/Out System** *(PowerApps, SharePoint)*  
+🚗 **Fleet Vehicle Check-In/Out System** *(PowerApps, SharePoint)*  ✅
 📋 **JIRA Software Expiry Tracker Add-on** *(JIRA Forge, Node.js)*  
-🔐 **Complex Password Generator with GUI** *(Python, Tkinter)*  
+🔐 **Complex Password Generator with GUI** *(Python, Tkinter)* ✅  
 🛡️ **Password Strength Checker** *(Python, Regex, Tkinter)*  
-🎣 **Phishing URL Scanner** *(Python, Machine Learning, Flask)*  
+🎣 **Phishing URL Scanner** *(Python, Machine Learning, Flask)*  ✅
 🖥️ **Windows & Linux System Health Monitor** *(Python, Bash, PowerShell)*  
 
 📂 More projects coming soon—stay tuned!  
