@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Eleandro Girgis! 👋  
+# 🚀 Hello, I'm Eleandro Girgis! 👋  
 🔹 **Founder of [E-Debug Dotcom](https://github.com/E-debug-dotcom) | IT Support Analyst | Cybersecurity & Compliance | Developer**  
 
 💻 Passionate about **automating IT processes, optimizing databases, and building secure systems.**  
