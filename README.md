@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats  
 ![Eleandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-debug-dotcom&show_icons=true&theme=dark&cachne_seconds=30)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-debug-dotcom&layout=compact&theme=dark&cachne_seconds=30)  
-![GitHub followers](https://img.shields.io/github/followers/E-debug-dotcom?style=social)
-![GitHub stars](https://img.shields.io/github/stars/E-debug-dotcom?style=social)
+![GitHub followers](https://img.shields.io/github/followers/E-debug-dotcom?style=social&theme=dark&cachne_seconds=30)
+![GitHub stars](https://img.shields.io/github/stars/E-debug-dotcom?style=socialtheme=dark&cachne_seconds=30)
 
 
 ## 🚀 My Recent Projects
