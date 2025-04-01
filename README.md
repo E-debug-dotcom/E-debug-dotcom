@@ -53,7 +53,7 @@
 ## ⚡ Fun Facts
 
 - 💡 I enjoy contributing to open-source projects.
-- 🚗 Always working on automating tasks at home.
+- 🚗 I always working on automating tasks at home.
 - 🎮 I'm a fan of strategy and puzzle games.
 
 ---
