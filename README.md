@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack  
 - **Languages:** Python, Java, PHP, HTML, SQL  
-- **Tools:** PowerApps, Node.js, React, JIRA Forge, Git  
+- **Tools:** PowerApps, Node.js, React, JIRA Forge, Git, BurpSuite
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Cloud:** AWS, Azure  
 - **Operating Systems:** Linux, Windows, Mac OS  
