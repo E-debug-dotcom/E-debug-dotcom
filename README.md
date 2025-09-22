@@ -17,8 +17,7 @@
 ---
 
 ## 📌 Projects  
-🚗 **Fleet Vehicle Check-In/Out System** *(PowerApps, SharePoint)*
-
+🚗 **Fleet Vehicle Check-In/Out System** *(PowerApps, SharePoint)* 
 🔐 **Complex Password Generator with GUI** *(Python, Tkinter)*  
 🛡️ **Password Strength Checker** *(Python, Regex, Tkinter)*  
 🎣 **Phishing URL Scanner** *(Python, Machine Learning, Flask)*  
