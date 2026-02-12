@@ -27,13 +27,16 @@
 📂 More projects coming soon—stay tuned!  
 
 ---
-
 ## 📊 GitHub Stats  
 
-![Eleandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-debug-dotcom&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E-debug-dotcom&layout=compact&theme=dark)  
 ![GitHub followers](https://img.shields.io/github/followers/E-debug-dotcom?style=social&theme=dark)  
-![GitHub stars](https://img.shields.io/github/stars/E-debug-dotcom?style=social&theme=dark)
+![GitHub stars](https://img.shields.io/github/stars/E-debug-dotcom?style=social&theme=dark)  
+
+### 🖥 Top Languages
+![Python](https://img.shields.io/badge/Python-40%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow)
+![HTML](https://img.shields.io/badge/HTML-20%25-orange)
+
 
 
 ## 🚀 My Recent Projects
